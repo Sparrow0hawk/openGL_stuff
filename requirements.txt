@@ -1,0 +1,3 @@
+certifi==2020.6.20
+PyOpenGL==3.1.5
+PyOpenGL-accelerate==3.1.5
